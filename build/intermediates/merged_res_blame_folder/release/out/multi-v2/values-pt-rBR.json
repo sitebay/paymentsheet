@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/home/t/.gradle/caches/transforms-3/10798ffa6650464bfad57b4ba3f57a2e/transformed/ui-1.0.0-rc02/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,236,333,416,515,606,693,765,834,910",
+                        "endColumns": "94,85,96,82,98,90,86,71,68,75,66",
+                        "endOffsets": "145,231,328,411,510,601,688,760,829,905,972"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,236,333,416,515,606,693,765,834,1011",
+                        "endColumns": "94,85,96,82,98,90,86,71,68,75,66",
+                        "endOffsets": "145,231,328,411,510,601,688,760,829,905,1073"
+                    }
+                },
+                {
+                    "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "910",
+                        "endColumns": "100",
+                        "endOffsets": "1006"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "/home/t/.gradle/caches/transforms-3/10798ffa6650464bfad57b4ba3f57a2e/transformed/ui-1.0.0-rc02/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,236,333,416,515,606,693,765,834,910",
+                        "endColumns": "94,85,96,82,98,90,86,71,68,75,66",
+                        "endOffsets": "145,231,328,411,510,601,688,760,829,905,972"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,236,333,416,515,606,693,765,834,1011",
+                        "endColumns": "94,85,96,82,98,90,86,71,68,75,66",
+                        "endOffsets": "145,231,328,411,510,601,688,760,829,905,1073"
+                    }
+                },
+                {
+                    "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "910",
+                        "endColumns": "100",
+                        "endOffsets": "1006"
+                    }
+                }
+            ]
+        }
+    ]
+}

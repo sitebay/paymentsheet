@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-07-16T03:19:18" hostname="debian" time="3.442">
+  <properties/>
+  <testcase name="Verify filter is called to set the input value" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="3.259"/>
+  <testcase name="verify onValueChange sets the paramValue" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.071"/>
+  <testcase name="Verify is visible error set when the controller field state changes" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.037"/>
+  <testcase name="Verify is not complete set when the controller field state changes" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.011"/>
+  <testcase name="Verify is complete set when the controller field state changes" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.011"/>
+  <testcase name="verify the error message is set when should be visible" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.01"/>
+  <testcase name="Verify is not full set when the controller field state changes" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.011"/>
+  <testcase name="Verify is full set when the controller field state changes" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.009"/>
+  <testcase name="Verify correct value passed to config should show error" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.009"/>
+  <testcase name="Verify is visible error is true when onValueChange and shouldShowError returns true" classname="com.stripe.android.paymentsheet.elements.TextFieldControllerTest" time="0.012"/>
+  <system-out><![CDATA[WARNING: No manifest file found at ./AndroidManifest.xml.
+Falling back to the Android OS resources only.
+To remove this warning, annotate your test class with @Config(manifest=Config.NONE).
+]]></system-out>
+  <system-err><![CDATA[No such manifest file: ./AndroidManifest.xml
+]]></system-err>
+</testsuite>

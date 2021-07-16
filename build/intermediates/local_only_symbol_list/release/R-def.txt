@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+drawable stripe_ic_paymentsheet_pm_bancontact
+drawable stripe_ic_paymentsheet_pm_card
+drawable stripe_ic_paymentsheet_pm_ideal
+drawable stripe_ic_paymentsheet_pm_sepa_debit
+drawable stripe_ic_paymentsheet_pm_sofort
+string address_label_country
+string address_label_name
+string blank_and_required
+string email
+string incomplete
+string invalid
+string malformed
+string save_for_future_use
+string sofort_mandate
+string stripe_paymentsheet_payment_method_bancontact
+string stripe_paymentsheet_payment_method_card
+string stripe_paymentsheet_payment_method_ideal
+string stripe_paymentsheet_payment_method_sepa_debit
+string stripe_paymentsheet_payment_method_sofort
+string title_bank_account

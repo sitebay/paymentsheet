@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stripe.android.paymentsheet.elements.DropdownFieldControllerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-16T03:19:32" hostname="debian" time="0.029">
+  <properties/>
+  <testcase name="Verify that when the selected index changes the paymentMethod param value updates" classname="com.stripe.android.paymentsheet.elements.DropdownFieldControllerTest" time="0.018"/>
+  <testcase name="Verify display items gets the display items form the config" classname="com.stripe.android.paymentsheet.elements.DropdownFieldControllerTest" time="0.006"/>
+  <testcase name="Verify dropdown is always complete" classname="com.stripe.android.paymentsheet.elements.DropdownFieldControllerTest" time="0.003"/>
+  <testcase name="Verify label gets the label from the config" classname="com.stripe.android.paymentsheet.elements.DropdownFieldControllerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

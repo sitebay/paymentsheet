@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_ideal.xml",
+        "source": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_ideal.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_bancontact.xml",
+        "source": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_sofort.xml",
+        "source": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_sofort.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_card.xml",
+        "source": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_card.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/stripe_ic_paymentsheet_pm_sepa_debit.xml",
+        "source": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_sepa_debit.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable/notification_tile_bg.xml"
+    }
+]

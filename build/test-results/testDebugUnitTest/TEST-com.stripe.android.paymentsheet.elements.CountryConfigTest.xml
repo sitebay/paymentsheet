@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stripe.android.paymentsheet.elements.CountryConfigTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-16T03:19:22" hostname="debian" time="0.004">
+  <properties/>
+  <testcase name="Verify the displayed country list" classname="com.stripe.android.paymentsheet.elements.CountryConfigTest" time="0.002"/>
+  <testcase name="Verify the label" classname="com.stripe.android.paymentsheet.elements.CountryConfigTest" time="0.0"/>
+  <testcase name="Verify only show countries requested" classname="com.stripe.android.paymentsheet.elements.CountryConfigTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stripe.android.paymentsheet.forms.FormViewModelTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-07-16T03:19:36" hostname="debian" time="0.973">
+  <properties/>
+  <testcase name="Verify if a field is optional and valid it is not in the formViewValueResult" classname="com.stripe.android.paymentsheet.forms.FormViewModelTest" time="0.843"/>
+  <testcase name="Verify setting section as optional sets sub-fields as optional as well" classname="com.stripe.android.paymentsheet.forms.FormViewModelTest" time="0.029"/>
+  <testcase name="Verify setting save for future use visibility" classname="com.stripe.android.paymentsheet.forms.FormViewModelTest" time="0.009"/>
+  <testcase name="Verify setting save for future use" classname="com.stripe.android.paymentsheet.forms.FormViewModelTest" time="0.007"/>
+  <testcase name="Verify params are set when element flows are complete" classname="com.stripe.android.paymentsheet.forms.FormViewModelTest" time="0.039"/>
+  <testcase name="Optional invalid fields arent in the formViewValue and has no effect on complete state" classname="com.stripe.android.paymentsheet.forms.FormViewModelTest" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

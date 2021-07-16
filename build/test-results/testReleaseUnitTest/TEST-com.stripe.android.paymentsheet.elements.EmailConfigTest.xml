@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stripe.android.paymentsheet.elements.EmailConfigTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-16T03:19:36" hostname="debian" time="0.003">
+  <properties/>
+  <testcase name="verify determine state returns blank and required when empty" classname="com.stripe.android.paymentsheet.elements.EmailConfigTest" time="0.001"/>
+  <testcase name="verify the if email matches the pattern it returns Limitless" classname="com.stripe.android.paymentsheet.elements.EmailConfigTest" time="0.001"/>
+  <testcase name="verify there is no filter" classname="com.stripe.android.paymentsheet.elements.EmailConfigTest" time="0.0"/>
+  <testcase name="verify the if email doesn't match the pattern it returns incomplete" classname="com.stripe.android.paymentsheet.elements.EmailConfigTest" time="0.0"/>
+  <testcase name="verify if it doesn't pattern match but has an @ and period it is malformed" classname="com.stripe.android.paymentsheet.elements.EmailConfigTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

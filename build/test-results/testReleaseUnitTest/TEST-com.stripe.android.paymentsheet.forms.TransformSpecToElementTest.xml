@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-07-16T03:19:37" hostname="debian" time="0.018">
+  <properties/>
+  <testcase name="Add a name section spec sets up the name element correctly" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.002"/>
+  <testcase name="Section with multiple fields contains all fields in the section element" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.003"/>
+  <testcase name="Add a mandate section spec setup of the mandate element correctly" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.009"/>
+  <testcase name="Adding a ideal bank section sets up the section and country elements correctly" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.0"/>
+  <testcase name="Adding a country section sets up the section and country elements correctly" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.001"/>
+  <testcase name="Add a email section spec sets up the email element correctly" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.0"/>
+  <testcase name="Adding to sections that get focus sets up the focus indexes correctly" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.0"/>
+  <testcase name="Add a save for future use section spec sets the mandate element correctly" classname="com.stripe.android.paymentsheet.forms.TransformSpecToElementTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

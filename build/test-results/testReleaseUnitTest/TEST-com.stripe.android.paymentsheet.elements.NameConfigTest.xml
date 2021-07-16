@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stripe.android.paymentsheet.elements.NameConfigTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-16T03:19:32" hostname="debian" time="0.002">
+  <properties/>
+  <testcase name="verify the if name has any characters it returns Limitless" classname="com.stripe.android.paymentsheet.elements.NameConfigTest" time="0.001"/>
+  <testcase name="verify determine state returns blank and required when empty or null" classname="com.stripe.android.paymentsheet.elements.NameConfigTest" time="0.0"/>
+  <testcase name="verify that only letters are allowed in the field" classname="com.stripe.android.paymentsheet.elements.NameConfigTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

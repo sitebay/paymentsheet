@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/layout-v21/notification_action.xml"
+    }
+]

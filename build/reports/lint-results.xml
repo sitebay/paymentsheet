@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 4.2.2">
+
+    <issue
+        id="UnknownIssueId"
+        severity="Warning"
+        message="Unknown issue id &quot;UnrememberedMutableState&quot;"
+        category="Lint"
+        priority="1"
+        summary="Unknown Lint Issue Id"
+        explanation="Lint will report this issue if it is configured with an issue id it does not recognize in for example Gradle files or `lint.xml` configuration files."
+        errorLine1="        disable &quot;UnrememberedMutableState&quot;"
+        errorLine2="                 ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build.gradle"
+            line="46"
+            column="18"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `startY` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:startY=&quot;10.7661&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="12"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `startX` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:startX=&quot;2.52836&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="13"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `endY` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:endY=&quot;7.36967&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="14"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `endX` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:endX=&quot;11.6726&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="15"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `offset` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                        android:offset=&quot;0&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="18"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `offset` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                        android:offset=&quot;1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="21"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `startY` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:startY=&quot;8.45847&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="29"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `startX` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:startX=&quot;13.2568&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="30"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `endY` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:endY=&quot;5.14587&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="31"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `endX` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                    android:endX=&quot;22.9662&quot;"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="32"
+            column="21"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `offset` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                        android:offset=&quot;0&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="35"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `offset` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="                        android:offset=&quot;1&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_bancontact.xml"
+            line="38"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `fillType` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="        android:fillType=&quot;evenOdd&quot;"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_card.xml"
+            line="9"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `fillType` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="        android:fillType=&quot;evenOdd&quot; />"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_ideal.xml"
+            line="9"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `fillType` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="        android:fillType=&quot;evenOdd&quot; />"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_ideal.xml"
+            line="13"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `fillType` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="      android:fillType=&quot;evenOdd&quot;/>"
+        errorLine2="      ~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_sepa_debit.xml"
+            line="9"
+            column="7"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `fillType` is only used in API level 24 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="      android:fillType=&quot;evenOdd&quot;/>"
+        errorLine2="      ~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_sepa_debit.xml"
+            line="13"
+            column="7"/>
+    </issue>
+
+    <issue
+        id="VectorPath"
+        severity="Warning"
+        message="Very long vector path (2205 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector."
+        category="Performance"
+        priority="5"
+        summary="Long vector paths"
+        explanation="Using long vector paths is bad for performance. There are several ways to make the `pathData` shorter:&#xA;* Using less precision&#xA;* Removing some minor details&#xA;* Using the Android Studio vector conversion tool&#xA;* Rasterizing the image (converting to PNG)"
+        errorLine1="      android:pathData=&quot;M32.8119,11.2719H29.2722L28.7957,13H26.0582L29.0109,3H33.0079L36,13H33.3188L32.813,11.2719H32.8119ZM32.2858,9.3239L31.0466,4.9893L29.8412,9.3239H32.2858ZM18.8291,13V3H23.7612C24.4382,3 24.9553,3.0573 25.309,3.1684C26.1202,3.4272 26.6643,3.9563 26.9437,4.7556C27.0879,5.1748 27.16,5.8069 27.16,6.6509C27.16,7.6656 27.0811,8.394 26.9234,8.8383C26.6057,9.7155 25.9546,10.2206 24.9711,10.3523C24.8551,10.3718 24.3627,10.3889 23.4953,10.4038L23.056,10.4187H21.4765V13H18.8291ZM21.4765,8.0985H23.1269C23.6508,8.079 23.9685,8.0378 24.0845,7.9748C24.24,7.8866 24.3447,7.7114 24.3965,7.4492C24.4303,7.274 24.4472,7.014 24.4472,6.6704C24.4472,6.2467 24.4146,5.9329 24.347,5.7279C24.2523,5.4416 24.0237,5.2664 23.6632,5.2034C23.4923,5.1897 23.3208,5.1847 23.1495,5.1885H21.4765V8.0985ZM7.9985,6.1906H5.5347C5.5347,5.7783 5.4863,5.5034 5.3928,5.3637C5.2463,5.1553 4.8408,5.0522 4.1806,5.0522C3.5374,5.0522 3.1104,5.1118 2.902,5.2309C2.6947,5.3511 2.5911,5.6122 2.5911,6.0154C2.5911,6.3795 2.6834,6.6189 2.8671,6.7334C3,6.8136 3.1735,6.8628 3.392,6.8777L3.89,6.9121C4.5553,6.9539 5.22,7.0047 5.884,7.0644C6.7266,7.1503 7.335,7.3782 7.7146,7.7469C8.012,8.0332 8.1911,8.4111 8.2475,8.875C8.2801,9.1532 8.2959,9.467 8.2959,9.8163C8.2959,10.6214 8.2215,11.2112 8.0706,11.5857C7.7957,12.2705 7.1784,12.7034 6.2197,12.8855C5.8186,12.9622 5.2058,13 4.3778,13C2.9989,13 2.0368,12.9176 1.4938,12.7481C0.8291,12.5442 0.3898,12.1274 0.1769,11.4998C0.0575,11.1528 0,10.5722 0,9.7568H2.4649V9.9652C2.4649,10.3992 2.5877,10.6787 2.8333,10.8012C3.0022,10.8882 3.2073,10.9329 3.4484,10.9386H4.3541C4.816,10.9386 5.11,10.9146 5.2385,10.8665C5.4638,10.7749 5.6125,10.6306 5.6846,10.429C5.7206,10.303 5.7409,10.1427 5.7409,9.9469C5.7409,9.5071 5.5832,9.2391 5.2666,9.1429C5.1483,9.1052 4.5986,9.0513 3.6185,8.9849C2.8321,8.9276 2.2858,8.8727 1.9793,8.82C1.1727,8.6665 0.6342,8.3504 0.3673,7.8717C0.1307,7.4652 0.0124,6.8502 0.0124,6.0268C0.0124,5.3992 0.0777,4.8965 0.2039,4.5186C0.3312,4.1406 0.5362,3.8532 0.8213,3.6574C1.2347,3.355 1.7676,3.1787 2.4142,3.126C3.0099,3.0755 3.6076,3.0515 4.2054,3.0538C5.2385,3.0538 5.9752,3.1134 6.4157,3.2336C7.4882,3.5268 8.0222,4.3468 8.0222,5.6936C8.0222,5.8046 8.0154,5.9684 7.9996,6.1906H7.9985Z&quot;"
+        errorLine2="                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_sepa_debit.xml"
+            line="7"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="VectorPath"
+        severity="Warning"
+        message="Very long vector path (1016 characters), which is bad for performance. Considering reducing precision, removing minor details or rasterizing vector."
+        category="Performance"
+        priority="5"
+        summary="Long vector paths"
+        explanation="Using long vector paths is bad for performance. There are several ways to make the `pathData` shorter:&#xA;* Using less precision&#xA;* Removing some minor details&#xA;* Using the Android Studio vector conversion tool&#xA;* Rasterizing the image (converting to PNG)"
+        errorLine1="        android:pathData=&quot;M18,2H11.44C10.406,2 9.401,2 8.501,2.479C7.601,2.959 6.807,3.917 6.194,5.835C6.062,6.248 5.992,6.603 5.983,6.911C5.9676,7.1862 6.0202,7.4609 6.136,7.711C6.275,7.991 6.497,8.253 6.776,8.474C7.056,8.696 7.39,8.875 7.75,8.99L8.183,9.12C8.411,9.188 8.678,9.27 8.848,9.324C8.946,9.356 9.055,9.397 9.154,9.461C9.2437,9.5118 9.3187,9.585 9.3715,9.6736C9.4243,9.7621 9.4531,9.8629 9.455,9.966C9.4572,10.0638 9.4423,10.1613 9.411,10.254C9.327,10.514 9.199,10.682 8.957,10.784C8.714,10.887 8.359,10.921 7.817,10.924H1.067L0,14H7.226C7.906,14 9.149,14 10.344,13.467C11.537,12.934 12.684,11.871 13.168,9.741C13.35,8.941 13.295,8.291 12.995,7.778C12.696,7.266 12.154,6.895 11.364,6.657L10.979,6.54L10.411,6.37C10.2232,6.3181 10.0622,6.1965 9.961,6.03C9.9146,5.9493 9.8848,5.8601 9.8735,5.7677C9.8621,5.6753 9.8695,5.5815 9.895,5.492C9.9229,5.3922 9.9705,5.299 10.0349,5.2178C10.0993,5.1365 10.1792,5.069 10.27,5.019C10.46,4.909 10.709,4.849 11.001,4.849H15.201C15.231,4.803 15.258,4.755 15.287,4.71C16.054,3.572 16.983,2.65 18,2Z&quot;"
+        errorLine2="                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/src/main/res/drawable/stripe_ic_paymentsheet_pm_sofort.xml"
+            line="7"
+            column="27"/>
+    </issue>
+
+</issues>

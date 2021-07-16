@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/mnt/data/dev/sitebay-android-new/official/stripe-android/paymentsheet/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/t/.gradle/caches/transforms-3/dcd5154fcf7b668d02e9584936138404/transformed/core-1.5.0-rc02/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]
